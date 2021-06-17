@@ -12,6 +12,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 public class Base {
 
 	//Testing changes for git
+	//Testing final commit for merge purpose
 	public static AndroidDriver<AndroidElement> Capabilities() throws MalformedURLException {
 		
 		File f = new File("src");
